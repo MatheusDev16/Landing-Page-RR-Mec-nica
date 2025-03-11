@@ -432,6 +432,15 @@ body {
     height: 100%;
 }
 
+.video {
+    cursor: pointer;
+    position: absolute;
+    border-radius: 10px;
+    margin-left: 590px;
+    top: 550px;
+  
+}
+
 .cor_fundo3 {
     top: 1300px;
     height: 200px;
