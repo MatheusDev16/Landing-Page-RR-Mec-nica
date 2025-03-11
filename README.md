@@ -1,4 +1,4 @@
-# LANDINGPAGE RR MECÂNICA E PREPARAÇÃO #
+# LANDINGPAGE RR MECÂNICA E PREPARAÇÃO. #
 ## Tecnologias usadas: HTML, CSS e Javascript Vanilla. ##
 
 Feito como base de estudos sobre desenvolvimento Front End, projeto autoral.
